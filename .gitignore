@@ -1,0 +1,21 @@
+# Operating System Files
+.DS_Store # Mac OS file
+Thumbs.db # Windows OS file
+
+# Editor/IDE specific files
+.vscode/
+.idea/
+
+# Build artifacts (if you use tools like Sass/Less that generate CSS files)
+/dist
+/build
+*.css.map
+
+# Dependency directories (if using npm, bower, etc.)
+node_modules/
+bower_components/
+
+# Environment variables
+.env
+
+.DS_Store
