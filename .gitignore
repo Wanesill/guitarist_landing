@@ -7,7 +7,6 @@ Thumbs.db # Windows OS file
 .idea/
 
 # Build artifacts (if you use tools like Sass/Less that generate CSS files)
-/dist
 /build
 *.css.map
 
